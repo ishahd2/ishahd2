@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Shahd</h2>
 <p align="center">
-  💻 Full Stack Developer | ❤️ Laravel & PHP Enthusiast  
+  💻 Full Stack Developer | ❤️ Laravel & PHP  
 </p>
 
 ---
@@ -29,4 +29,4 @@ Here are a few projects I'm proud of:
 
 
 - [`tabaq-design`](https://github.com/ishahd2/tabaq-design):  
-  Restaurant website design prototype using HTML/CSS.
+  Restaurant website design prototype using HTML/CSS/Bootstrap.
